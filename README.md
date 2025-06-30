@@ -17,7 +17,4 @@ Training a Random Forest model using `scikit-learn`
 Model evaluation using classification report (precision, recall, F1-score)
 
 Tech Stack :
-Python (pandas, scikit-learn)
-Snowflake
-VS Code
-Git & GitHub
+Python (pandas, scikit-learn), Snowflake, VS Code, Git & GitHub
